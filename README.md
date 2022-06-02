@@ -5,6 +5,7 @@ This is a widget with a list of countries and some information about the country
 
 
 ## Demo
+https://countries-theta-snowy.vercel.app/
 
 ## Technologies used
 javascript, html,css
